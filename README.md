@@ -1,4 +1,4 @@
-*DataSwap*
+# DataSwap
 
 The *DataSwap* software is a SAS® macro that was developed and
 maintained by Westat under contract with the National Center for
